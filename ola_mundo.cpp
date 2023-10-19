@@ -2,6 +2,6 @@
 
 
 int main () {
-        std::cout <<"olá mundo, seu safado!"<< std::end1;
+        std::cout <<"o mundo acabara 11hrs"<< std::end1;
         retorn 0;   
 }
